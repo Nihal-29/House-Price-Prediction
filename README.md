@@ -1,0 +1,1 @@
+A machine learning model to predict house prices in Bengaluru.The House Price Prediction model leverages historical data on house prices in Bengaluru to predict prices based on features like area, number of bedrooms, location, and other property-related attributes.
